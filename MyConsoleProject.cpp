@@ -4,6 +4,9 @@ using namespace std;
 
 int main() {
 
+    // програма обчислення логічного виразу належності точки з заданими координатами (x, y)
+    // до заштрихованої області
+    
     while (true)
     {
         cout << "Input point coordinates: ";
